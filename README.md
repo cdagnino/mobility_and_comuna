@@ -1,8 +1,8 @@
 # mobility_and_comuna
-Movilidad y relación con características de las comunas
+Movilidad y relación con características de las comunas. Los datos necesarios para la nota se pueden bajar en el mismo notebook (están los links dentro del flujo). Incluímos abajo datos extra que están en el ETL.
 
 
-### Data requerida
+### Datos extra
 
 Mover los siguientes archivos a carpeta "data":  
 
